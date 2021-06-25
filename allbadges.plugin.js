@@ -2,8 +2,9 @@
  * @name AllBadges
  * @version 0.0.1
  * @description Gives you all profile badges on Discord.
- * 
- * @website http://github.com/wtrfl/
+ * @website https://github.com/wtrfl/
+ * @source https://github.com/wtrfl/allbadges/
+ * @updateUrl https://github.com/wtrfl/allbadges/allbadges.plugin.js
  */
 
 class AllBadges {
