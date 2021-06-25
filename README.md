@@ -5,6 +5,6 @@
 
 A small visual BetterDiscord plugin that gives you all of the profile badges.
 
-![Example of all badges](https://imgur.com/UHZBEQ9)
+![Example of all badges](https://i.imgur.com/UHZBEQ9.png)
 
 Credit to [DarkRabbit-0](https://github.com/DarkRabbit-0/discord-js) for writing the script to show badges.
