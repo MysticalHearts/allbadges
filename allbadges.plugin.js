@@ -4,7 +4,7 @@
  * @description Gives you all profile badges on Discord.
  * @website https://github.com/wtrfl/
  * @source https://github.com/wtrfl/allbadges/
- * @updateUrl https://github.com/wtrfl/allbadges/allbadges.plugin.js
+ * @updateUrl https://raw.githubusercontent.com/wtrfl/allbadges/main/allbadges.plugin.js
  */
 
 class AllBadges {
