@@ -10,7 +10,7 @@
 class AllBadges {
 
     constructor() {
-        this.initialized = false;
+        this.initialized = true;
     }
 
     // Meta GET Functions
